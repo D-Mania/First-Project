@@ -1,3 +1,3 @@
-# First-Project
+# Calculator
 
 This is my new project.
